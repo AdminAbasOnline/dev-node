@@ -17,7 +17,7 @@ Desenvolver um serviço que seja capaz de gerar uma venda.
 
 ## Instruções
 - Criar repositório no Github para desenvolvimento do projeto;
-- Após finalizar, enviar link do repositório para **pedro@abas.online** e **mariana.machado@groupsoftware.com.br**.
+- Após finalizar, enviar link do repositório para **lucas.sartori@abas.online** , **fernando@abas.online** e **mariana.machado@groupsoftware.com.br**.
 
 ## E por fim
 - Gostaríamos de ver o histórico de seus commits;
